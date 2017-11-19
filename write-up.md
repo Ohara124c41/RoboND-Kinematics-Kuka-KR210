@@ -17,10 +17,14 @@
 
 [//]: # (Image References)
 
-[image1]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/001.jpg
-[image2]: ./misc_images/misc3.png
-[image3]: ./misc_images/misc2.png
-
+[image1]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-36-24.png?raw=true
+[image2]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/001.jpg?raw=true
+[image3]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/002.jpg?raw=true
+[image4]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/003.jpg?raw=true
+[image5]: 
+[image6]: 
+[image7]: 
+[image8]: 
 ## [Rubric](https://review.udacity.com/#!/rubrics/972/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
@@ -39,6 +43,12 @@ Here is an example of how to include an image in your writeup.
 ![alt text][image1]
 
 #### 2. Using the DH parameter table you derived earlier, create individual transformation matrices about each joint. In addition, also generate a generalized homogeneous transform between base_link and gripper_link using only end-effector(gripper) pose.
+
+
+![alt text][image2]
+![alt text][image3]
+![alt text][image4]
+
 
 Links | alpha(i-1) | a(i-1) | d(i-1) | theta(i)
 --- | --- | --- | --- | ---
