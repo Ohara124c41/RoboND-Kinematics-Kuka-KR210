@@ -17,14 +17,16 @@
 
 [//]: # (Image References)
 
-[image1]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-36-24.png?raw=true
+[image1]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-35-04.png?raw=true
 [image2]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/001.jpg?raw=true
 [image3]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/002.jpg?raw=true
 [image4]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/003.jpg?raw=true
-[image5]: 
-[image6]: 
-[image7]: 
-[image8]: 
+[image5]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-27-42.png?raw=true
+[image6]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-31-08.png?raw=true
+[image7]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-32-11.png?raw=true
+[image8]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-32-57.png?raw=true
+[image9]: https://github.com/Ohara124c41/RoboND-Kinematics-Kuka-KR210/blob/master/images/Screenshot%20from%202017-09-24%2015-36-24.png?raw=true
+
 ## [Rubric](https://review.udacity.com/#!/rubrics/972/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
@@ -47,7 +49,7 @@ Here is an example of how to include an image in your writeup.
 
 ![alt text][image2]
 ![alt text][image3]
-![alt text][image4]
+
 
 
 Links | alpha(i-1) | a(i-1) | d(i-1) | theta(i)
@@ -65,7 +67,7 @@ Links | alpha(i-1) | a(i-1) | d(i-1) | theta(i)
 
 And here's where you can draw out and show your math for the derivation of your theta angles. 
 
-![alt text][image2]
+![alt text][image4]
 
 ### Project Implementation
 
@@ -73,9 +75,11 @@ And here's where you can draw out and show your math for the derivation of your 
 
 
 Here I'll talk about the code, what techniques I used, what worked and why, where the implementation might fail and how I might improve it if I were going to pursue this project further.  
-
-
+![alt text][image5]
+![alt text][image6]
+![alt text][image7]
+![alt text][image8]
 And just for fun, another example image:
-![alt text][image3]
+![alt text][image9]
 
 
