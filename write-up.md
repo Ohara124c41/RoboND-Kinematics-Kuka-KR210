@@ -72,7 +72,7 @@ Links | alpha(i-1) | a(i-1) | d(i-1) | theta(i)
 ##### Next, convert to rotational matrices:
 A snippet from the IK_server file is included:
 
-```
+```python
 # Mathematical equivalents
 T0_2 = T0_1 * T1_2
 T0_3 = T0_2 * T2_3
