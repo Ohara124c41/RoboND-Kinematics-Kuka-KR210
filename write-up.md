@@ -96,7 +96,7 @@ The image below shows the matrix used to incorporate the effects of `roll, pitch
 
 ![alt text][image4]
 
-```
+```python
     # Acquire angle theta1
     theta1 = atan2(wc[1],wc[0])
 
